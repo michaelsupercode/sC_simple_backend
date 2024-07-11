@@ -1,0 +1,13 @@
+body {
+  display: grid;
+  place-items: center;
+  justify-content: center;
+  background-color: #000;
+  min-height: 90vh;
+  min-width: 20vw;
+  color: rgb(253, 252, 252);
+}
+
+p {
+    width: 40vw;
+}
